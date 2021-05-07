@@ -1,0 +1,70 @@
+p {
+  margin: 0;
+  text-align: left;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+li{
+  list-style: none;
+}
+.wrapper {
+  text-align: center;
+}
+.todo-app {
+  border-radius: 5px;
+  padding: 50px;
+  background-color:#2D2D2D ;
+}
+.todo-header {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+h3 {
+  text-align: center;
+  color: #61DAFB;
+}
+.form-input button{
+  margin-top: 20px;
+}
+
+.todo-list {
+  margin-top: 30px;
+  padding-right: 30px;
+}
+.done {
+  color: red;
+  text-decoration: line-through;
+}
+
+.undone {
+  color: #61DAFB;
+  padding-right: 20px;
+
+}
+
+.todo-item {
+  list-style: none;
+  display: flex;
+  margin-bottom: 5px;
+  
+}
+.item-text {
+  border: 1px solid #FFFFFF;
+  border-radius: 5px;
+  background-color: white;
+  width: 100%;
+  text-align: left;
+  padding-left: 10px;
+}
+.item-text input {
+  padding-right: 15px;
+}
+
+
+/* =================Login================ */
+.lable-title {
+  color: #FFFFFF;
+}
+.box {
+  padding-bottom: 5px;
+}
